@@ -4,7 +4,7 @@ To run the puzzles against your own input, use chrome dev tools to learn your se
 export it, e.g.
 
 
-    $ export ADVENT_SESSION=5361xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx7af9f
+    $ export ADVENT_SESSION=5361xxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
     $ python day1.py
 
 
