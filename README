@@ -1,0 +1,18 @@
+http://adventofcode.com/
+
+To run the puzzles against your own input, use chrome dev tools to learn your session cookie value, then
+export it, e.g.
+
+
+    $ export ADVENT_SESSION=5361xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx7af9f
+    $ python day1.py
+
+
+or
+
+
+    C:\Users\...\>set ADVENT_SESSION=53616c746564xxxxxx.....
+    C:\Users\...\>python day1.py
+    final floor 138
+    basement at 1771
+
