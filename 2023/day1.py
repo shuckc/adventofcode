@@ -1,9 +1,6 @@
 import re
 import string
-
-def ai(inp, exp):
-    print(inp)
-    assert inp == exp
+from common import ai
 
 def p1(inp):
     t = 0
@@ -61,4 +58,4 @@ def p3(inp):
 ai(p3("eightwone"), 81)
 ai(p3("xxoneightonexx"), 11)
 ai(p3("onetwone"), 11)
-print(p3(open("day1.txt").read().strip()))
+ai(p3(open("day1.txt").read().strip()), 54418)
